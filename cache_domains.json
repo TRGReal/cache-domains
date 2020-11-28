@@ -1,6 +1,16 @@
 {
 	"cache_domains": [
 		{
+			"name": "apple",
+			"description": "CDN for Apple's service downloads",
+			"domain_files": ["apple.txt"]
+		},
+		{
+			"name": "debian",
+			"description": "CDN for Debian mirror",
+			"domain_files": ["debian.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
