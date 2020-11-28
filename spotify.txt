@@ -1,0 +1,9 @@
+*.spotifycdn.com
+*.spotifycdn.net
+spotifycdn.com
+spotifycdn.net
+*.spotify.map.fastly.net
+audio-ak-spotify-com.akamaized.net
+audio-akp-bbr-spotify-com.akamaized.net
+audio4-ak-spotify-com.akamaized.net
+heads-ak-spotify-com.akamaized.net
