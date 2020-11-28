@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "spotify",
+			"description": "CDN for Spotify audio and images",
+			"domain_files": ["filecdns.txt"]
+		},
+		{
 			"name": "filecdns",
 			"description": "CDN for Discord and Imgur",
 			"domain_files": ["filecdns.txt"]
