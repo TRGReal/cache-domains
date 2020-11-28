@@ -1,8 +1,5 @@
 # Game Content Cache Hostnames
 
-## Note
-This is an edited version of [uklans/cache-domains](https://github.com/uklans/cache-domains/) that has added and changed a few cache server lists; these include: Debian mirror server, Apple services, and the sony cache list.
-
 ## Introduction
 
 This is a list of all hostnames that are required to be redirected for running a game content cache. This list will change frequently so this is designed to be a definitive list.
