@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "filecdns",
+			"description": "CDN for Discord and Imgur",
+			"domain_files": ["filecdns.txt"]
+		},
+		{
 			"name": "apple",
 			"description": "CDN for Apple's service downloads",
 			"domain_files": ["apple.txt"]
